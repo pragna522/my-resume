@@ -2,7 +2,7 @@
 <html>
 <br></br>
 <h1>MY RESUME:</h1>
-<br><img src="pragna.html"/><pragna.c><br>
+<br><img src="pragna.html"><pragna.c><br>
 <h2><strong>NAME:-</strong>chandanamudi.pragna<br><strong>FATHER NAME:-C.Bhaskar</strong><br>MOTHER NAME:-B.Salomi<br>
 <br>BLOOD GROUP:-o+<br>ADDRESS:-new indira nagar,<br>near sgs arts college<br>sri sai enclace -2<br>Tirupati<br>PINCODE:-517501<br>
 <br>E.MAIL:-coralpragna@gmail.com<br>DATE OF BIRTH:11-05-2001<br>PHONE:-8330959655<br>LINKED IN:-<a href="https://www.linkedin.com/in/pragna-chandanamudi-684447191?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnZ6DaAkzSymWZuNbROmMEQ%3D%3D">pragna linked in profile</a>
