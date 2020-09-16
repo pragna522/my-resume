@@ -49,5 +49,4 @@
    </ul>
 <br>
 </body>
- <p>I here by declare that my above resume is true and acknowelged by me</p>
 </html>
