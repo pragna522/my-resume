@@ -22,7 +22,8 @@
 <tr>
 <td>SCHOOLING></td><td>EDEN HIGHER SECONDRY SCHOOLS-DIMAPUR(NAGALAND)</td><td>2007-2014</td>
 </tr>
-
+<br>
+  <p>i here by delare that the above resume is true and is acknolwedged by me</p>
 
 
 <p class="head"><strong>intrests</strong></p>
