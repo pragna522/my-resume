@@ -23,7 +23,7 @@
 <td>SCHOOLING></td><td>EDEN HIGHER SECONDRY SCHOOLS-DIMAPUR(NAGALAND)</td><td>2007-2014</td>
 </tr>
 <br>
-  <p>i here by delare that the above resume is true and is acknolwedged by me</p>
+ 
 
 
 <p class="head"><strong>intrests</strong></p>
@@ -48,15 +48,5 @@
    <li>hindi</li>
    </ul>
 <br>
-<p>I here by declare that assures that everything written on my resume is true and fully acknowledged by me.<p>
- 
-
-
-
-
-
-
-
-
-
 </html>
+<html><p>I HERE BY DECLARE THET THE ABOVE IS TRUE AND IS FULLY ACKNOWELDGED BY ME</p></html>
