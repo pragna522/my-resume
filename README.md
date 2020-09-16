@@ -1,8 +1,11 @@
-# my-resume
 <html>
 <br></br>
+<head>
 <h1>MY RESUME:</h1>
-<br><img src="pragna.html"><pragna.c><br>
+<BODY>
+</head>
+<body>
+<br><img src="https://media-exp1.licdn.com/dms/image/C5103AQGfAc5tHH1URA/profile-displayphoto-shrink_800_800/0?e=1605744000&v=beta&t=ut0owrbolrjOv7vIir0EYyJBMKVJxCdovWE_cKXDFFc"/><pragna.c><br>
 <h2><strong>NAME:-</strong>chandanamudi.pragna<br><strong>FATHER NAME:-C.Bhaskar</strong><br>MOTHER NAME:-B.Salomi<br>
 <br>BLOOD GROUP:-o+<br>ADDRESS:-new indira nagar,<br>near sgs arts college<br>sri sai enclace -2<br>Tirupati<br>PINCODE:-517501<br>
 <br>E.MAIL:-coralpragna@gmail.com<br>DATE OF BIRTH:11-05-2001<br>PHONE:-8330959655<br>LINKED IN:-<a href="https://www.linkedin.com/in/pragna-chandanamudi-684447191?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnZ6DaAkzSymWZuNbROmMEQ%3D%3D">pragna linked in profile</a>
@@ -23,9 +26,6 @@
 <td>SCHOOLING></td><td>EDEN HIGHER SECONDRY SCHOOLS-DIMAPUR(NAGALAND)</td><td>2007-2014</td>
 </tr>
 <br>
- 
-
-
 <p class="head"><strong>intrests</strong></p>
   <ul>
    <li>reading novels</li>
@@ -48,5 +48,6 @@
    <li>hindi</li>
    </ul>
 <br>
+</body>
+ <p>I here by declare that my above resume is true and acknowelged by me</p>
 </html>
-<html><h3><p>I HERE BY DECLARE THAT THE ABOVE IS TRUE AND IS FULLY ACKNOWELDGED BY ME</p></h3></html>
