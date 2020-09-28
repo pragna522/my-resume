@@ -1,10 +1,10 @@
+<!doctype html>
 <html>
-<br></br>
 <head>
-<h1>MY RESUME:</h1>
-<BODY>
+<title>my resume</title>
 </head>
 <body>
+<h1>MY RESUME:</h1>
 <br><img src="https://media-exp1.licdn.com/dms/image/C5103AQGfAc5tHH1URA/profile-displayphoto-shrink_800_800/0?e=1605744000&v=beta&t=ut0owrbolrjOv7vIir0EYyJBMKVJxCdovWE_cKXDFFc"/><pragna.c><br>
 <h2><strong>NAME:-</strong>chandanamudi.pragna<br><strong>FATHER NAME:-C.Bhaskar</strong><br>MOTHER NAME:-B.Salomi<br>
 <br>BLOOD GROUP:-o+<br>ADDRESS:-new indira nagar,<br>near sgs arts college<br>sri sai enclace -2<br>Tirupati<br>PINCODE:-517501<br>
@@ -14,7 +14,7 @@
 <h2>CAREER DETAILS</h2><br>
 <table border="4">
 <tr>
-<td>B.TECH</td><td>JNTU ANANTAPUR(AUTONOMOUS)-CSE</td><td>2018-2022
+<td>B.TECH</td><td>JNTU ANANTAPUR(AUTONOMOUS)-CSE</td><td>2018-2022</td>
 </tr>
 <tr>
 <td>INTERMEDIATE</td><td>Narayana junior college tirupathi</td><td>2016-2018</td>
@@ -33,7 +33,7 @@
    <li>exploring</li>
    <li>programming</li>
   </ul> 
-<p class="head"><strong>skills</strong></p>
+<p><strong>skills</strong></p>
    <ul>
    <li>self motivated,with the ability to work independently</li>
    <li>ted talks</li>
@@ -41,7 +41,7 @@
    <li>superior understanding</li>
    <li>member at IEEE</li>
    </ul>
-<p class="head"><strong>languages</strong></p>
+<p><strong>languages</strong></p>
    <ul>
    <li>english</li>
    <li>telugu</li>
